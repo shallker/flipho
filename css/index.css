@@ -1,0 +1,5 @@
+#flipho{width:100%;}
+#flipho .row{width:100%;line-height:0;margin-top:11px;margin-bottom:11px;}
+#flipho .row .photo{background:#f00;display:inline-block;margin-left:11px;cursor:pointer;}
+#flipho .row .photo.hover,#flipho .row .photo:hover{box-shadow:1px 1px 2px 1px #aaa}
+#flipho .enlarge{margin-left:11px;margin-right:11px;text-align:center;background:#222;line-height:0;transition-duration:1s;-ms-transition-duration:1s;-moz-transition-duration:1s;-webkit-transition-duration:1s;transition-property:height;-ms-transition-property:height;-moz-transition-property:height;-webkit-transition-property:height}
